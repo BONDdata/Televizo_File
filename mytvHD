@@ -215,8 +215,8 @@ https://edge2a.v2h-cdn.com/nation_1/nation_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-id="iptv36.nation" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/nation.png",Nation TV FHD
 https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
 
-#EXTINF:-1 tvg-chno="23" tvg-id="iptv36.workpoint" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/workpoint.png",Workpoint TV FHD
-https://global-media.sooplive.com/live/workpoint/master.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-id="iptv36.workpoint" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/workpoint.png",Workpoint TV
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
 
 #EXTINF:-1 tvg-chno="24" tvg-id="iptv36.true4u" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/true4u.png",True4U HD
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
