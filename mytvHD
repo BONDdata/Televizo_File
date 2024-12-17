@@ -164,7 +164,8 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-id="iptv36.pptv" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/pptv.png",PPTV FHD
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+https://pptv36-1tsjfj.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-963&x_ark_auth_type=ark-v2&x_ark_expires=1734414601&x_ark_path_prefix=%2Flive%2F&x_ark_signature=63xQsAhJqDJyukTs3kIcag
+
 
 #EXTINF:-1 tvg-chno="7" tvg-id="iptv36.tsports" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/tsports.png",T-Sports
 https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
@@ -256,7 +257,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
 
 #EXTINF:-1 tvg-chno="36" tvg-id="iptv36.pptv" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/pptv.png",PPTV FHD
-https://pptv36-1tsjfj.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-963&x_ark_auth_type=ark-v2&x_ark_expires=1734414601&x_ark_path_prefix=%2Flive%2F&x_ark_signature=63xQsAhJqDJyukTs3kIcag
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 
 
 
