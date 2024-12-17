@@ -193,7 +193,7 @@ https://hls-nginx.v2h-cdn.com/hls/ch3myStream.m3u8
 https://hls-nginx.v2h-cdn.com/hls/amarinmyStream.m3u8
 
 #EXTINF:-1 tvg-chno="15" tvg-id="iptv36.ch7" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/ch7.png",CH7 FHD
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
 
 #EXTINF:-1 tvg-chno="16" tvg-id="iptv36.tnn16" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/tnn16.png",TNN16 HD
 https://iptv36.vercel.app/api/true.m3u8?channel=tnn16
@@ -254,7 +254,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 
 #EXTINF:-1 tvg-chno="35" tvg-id="iptv36.ch7" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/ch7.png",CH7 FHD
-https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
 
 #EXTINF:-1 tvg-chno="36" tvg-id="iptv36.pptv" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/pptv.png",PPTV FHD
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
