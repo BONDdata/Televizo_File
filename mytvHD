@@ -853,24 +853,6 @@ http://salamus2023.onlinehdhls.ru/lb/premium580/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-01.png" group-title="Sports" ,ArenaSport1
-http://biptv.live:15000/TCB8BdsBGM/hHvPgpnGq4/84567
-
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-02.png" group-title="Sports" ,ArenaSport2
-http://biptv.live:15000/TCB8BdsBGM/hHvPgpnGq4/84569
-
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-03.png" group-title="Sports" ,ArenaSport3
-http://biptv.live:15000/TCB8BdsBGM/hHvPgpnGq4/84571
-
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-04.png" group-title="Sports" ,ArenaSport4
-http://biptv.live:15000/TCB8BdsBGM/hHvPgpnGq4/84573
-
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-05.png" group-title="Sports" ,ArenaSport5
-http://biptv.live:15000/TCB8BdsBGM/hHvPgpnGq4/84575
-
-
-
-
 
 
 #EXTINF:-1 group-title="Sports" tvg-name="Astro SuperSport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png" ,Astro SuperSport 1
@@ -13001,9 +12983,9 @@ Cinema_Toon 13/10/2024
             https://main.24playerhd.com/newplaylist/6a567ebaa856018cb41c8260/6a567ebaa856018cb41c8260.m3u8
             
 
-            ,Star Wars The Clone Wars (2008) สตาร์ วอร์ส สงครามโคลน
+            
              
-            #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Star-Wars-The-Clone-Wars-2008.jpg"
+            #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Star-Wars-The-Clone-Wars-2008.jpg" group-title="หนังการ์ตูน" ,Star Wars The Clone Wars (2008) สตาร์ วอร์ส สงครามโคลน
             https://main.24playerhd.com/newplaylist/03bea7dab07c4b559c50bcde/03bea7dab07c4b559c50bcde.m3u8
             
 
