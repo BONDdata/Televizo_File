@@ -1712,8 +1712,18 @@ https://cdnsv1.bunnycdncloud.com/dooball2you/golf2/playlist.m3u8
 
 
 ########################################
-Cinema 12/12/2024
+Cinema 24/12/2024
 ########################################
+
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5341/20241006000113SUiK.jpg" group-title="หนังใหม่-2024" ,โจ๊กเกอร์ โฟลีย์ อา เดอ (2024)
+https://movie.server-cdn-streaming.com/api/uploads/movie/5341/video/20179/hls/movie.m3u8
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5334/20240927141412Hlet.jpg" group-title="หนังใหม่-2024" ,ตาคลี เจเนซิส (2024)
+https://movie.server-cdn-streaming.com/api/uploads/movie/5334/video/20148/hls/movie.m3u8
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5388/202411092058207yec.jpg" group-title="หนังใหม่-2024" ,เรด วัน Red One (2024)
+https://movie.server-cdn-streaming.com/api/uploads/movie/5388/video/20162/hls/movie.m3u8
 
 #EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5376/202410251408058Ebe.jpg" group-title="หนังใหม่-2024" ,เวน่อม: มหาศึกอสูรอหังการ Venom: The Last Dance (2024)
 https://movie.server-cdn-streaming.com/api/uploads/movie/5376/video/20125/hls/movie.m3u8
