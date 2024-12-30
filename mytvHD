@@ -750,25 +750,6 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueANIMALPLANET.m3u8
 
 
 
-########################################
-TrueFilmHD 00/00/2024
-########################################
-
-#EXTINF:-1 tvg-id="True Film1" tvg-logo="https://img5.pic.in.th/file/secure-sv1/True-Film1.png" group-title="Movies",True Film1
-#EXTVLCOPT:http-referrer=https://livescorethai.net/
-https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png" group-title="Movies",True Movie Hits
-#EXTVLCOPT:http-referrer=https://livescorethai.net
-https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="True Film Asia" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png" group-title="Movies",True Film Asia
-#EXTVLCOPT:http-referrer=https://livescorethai.net
-https://streaming.livescorethai.net/iptv/sd-filmasia.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="True Thai Film-C" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cffb79f0-b44d-11ee-80bd-b787d7bab688_webp_original.webp" group-title="Movies",True Thai Film
-#EXTVLCOPT:http-referrer=https://livescorethai.net
-https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8
 
 
 
