@@ -735,6 +735,10 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueAXN.m3u8
 #EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="TRUEVISION NOW", TRUE HISTORY
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueH2.m3u8
+
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png",TRUE DISCOVER
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/aisDiscover.m3u8
+
 #EXTINF:-0 tvg-id="" tvg-name="DreamWorks TV HD" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="TRUEVISION NOW",TRUE DreamWorks 
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truedreamworks.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="TRUEVISION NOW",TRUE SPARK PLAY
