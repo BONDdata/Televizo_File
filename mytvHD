@@ -658,6 +658,10 @@ https://cdn1.googlecdn.live/4k/epl5/chunks.m3u8
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186600&extension=m3u8
 
 
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",SportHD 1B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://cdnsv1.bunnycdncloud.com/andaman888th/tpf1/playlist.m3u8
 
 
 
