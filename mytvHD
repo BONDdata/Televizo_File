@@ -1715,8 +1715,35 @@ https://cdnsv1.bunnycdncloud.com/dooball2you/golf2/playlist.m3u8
 
 
 ########################################
-Cinema 24/12/2024
+Cinema 8/01/2024
 ########################################
+
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/12/Uranus-2024-ยูเรนัส-2324-1-187x269.png" group-title="หนังใหม่-2024" ,ยูเรนัส Uranus (2024)
+https://main.24playerhd.com/newplaylist/05f78f2b4178955a44f66013/05f78f2b4178955a44f66013.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/The-Mystery-of-Jade-2024-เปาบุ้นจิ้น-คดีประหลาดดาวปลาคู่-1-187x269.jpg" group-title="หนังใหม่-2024" ,เปาบุ้นจิ้น คดีประหลาดดาวปลาคู่(2024)
+https://main.24playerhd.com/newplaylist/fd0f6f830b407ec14afbc7ab/fd0f6f830b407ec14afbc7ab.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/12/Sonic-the-Hedgehog-3-2024-โซนิค-เดอะ-เฮดจ์ฮ็อก-3-187x269.png" group-title="หนังใหม่-2024" ,โซนิค เดอะ เฮดจ์ฮ็อก 3(2024)
+https://main.24playerhd.com/newplaylist/26873f5504e24632b3e980d7/26873f5504e24632b3e980d7.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/12/Your-Fault-2024-คำขอโทษ-2-187x269.png" group-title="หนังใหม่-2024" ,คำขอโทษ 2 Your Fault (2024)
+https://main.24playerhd.com/newplaylist/4556bd05c3c896411f098461/4556bd05c3c896411f098461.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/Cash-Out-2024-187x269.jpg" group-title="หนังใหม่-2024" ,Cash Out (2024)
+https://main.24playerhd.com/newplaylist/7eadbf88d1f87193eb6d3696/7eadbf88d1f87193eb6d3696.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/12/The-Six-Triple-Eight-2024-888-กองพันหญิงแกร่ง-1-187x269.png" group-title="หนังใหม่-2024" ,888 กองพันหญิงแกร่ง The Six Triple Eight (2024)
+https://main.24playerhd.com/newplaylist/65ab978b75986813a6ed153a/65ab978b75986813a6ed153a.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/12/ฝีนาค-Fee-Nak-2024-187x269.jpg" group-title="หนังใหม่-2024" ,ฝีนาค Fee Nak (2024)
+https://main.24playerhd.com/newplaylist/776b446405302b9d8ca39697/776b446405302b9d8ca39697.m3u8
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5341/20241006000113SUiK.jpg" group-title="หนังใหม่-2024" ,โจ๊กเกอร์ โฟลีย์ อา เดอ (2024)
