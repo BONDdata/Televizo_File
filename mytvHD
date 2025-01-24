@@ -1744,26 +1744,6 @@ https://cdn1.googlecdn.live/dooballx/trueballthai1/chunks.m3u8
 #EXTVLCOPT:http-referrer=hhttps://doolive4k.tv/
 https://dolive.thaim3u.com/doolive4k-tv/youtube-1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/sport-tv-1.jpg" group-title="Sports" ,Sport TV 1
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/sporttv1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/sport-tv-2.jpg" group-title="Sports" ,Sport TV 2
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/sporttv2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/sport-tv-3.jpg" group-title="Sports" ,Sport TV 3
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/sporttv3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/sport-tv-4.jpg" group-title="Sports" ,Sport TV 4
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/sporttv4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/sport-tv-5.jpg" group-title="Sports" ,Sport TV 5
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/sporttv5/playlist.m3u8
-
 
 
 
@@ -1773,9 +1753,6 @@ https://cdnsv1.bunnycdncloud.com/dooball2you/sporttv5/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/spotv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/sportv.jpg" group-title="Sports" ,SPOTV🇲🇾
-https://e7u2.short.gy/Ek/SPOTV-Astro.m3u8
-
 
 
 
@@ -1783,61 +1760,7 @@ https://e7u2.short.gy/Ek/SPOTV-Astro.m3u8
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/spotv2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/sportv2.jpg" group-title="Sports" ,SPOTV2🇲🇾
-https://e7u2.short.gy/Ek/SPOTV2-Astro.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/bt-sport-1.jpg" group-title="Sports" ,BT Sport1
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/btsport1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/bt-sport-2.jpg" group-title="Sports" ,BT Sport2
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/btsport2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/bt-sport-3.jpg" group-title="Sports" ,BT Sport3
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/btsport3/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/motorvision.jpg" group-title="Sports" ,Motorvision
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/motorvision/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/nbatv.jpg" group-title="Sports" ,NBA TV
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/nbatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/sportv-.jpg" group-title="Sports" ,SPORTV
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/sportv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/digisport1.jpg" group-title="Sports" ,DigiSport1
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/digisport1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/digisport2.jpg" group-title="Sports" ,DigiSport2
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/digisport2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/digisport3.jpg" group-title="Sports" ,DigiSport3
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/digisport3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/digisport4.jpg" group-title="Sports" ,DigiSport4
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/digisport4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/golf-channel-thailand.jpg" group-title="Sports" ,Golf channel thailand
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/golf/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/golf-channel-thailand-plus.jpg" group-title="Sports" ,Golf channel thailand 2
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/golf2/playlist.m3u8
 
 
 
