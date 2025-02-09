@@ -27,24 +27,37 @@ http://49.0.64.96:8007/AMAZING
 #EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png",Animal
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/Animal
-#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/gQLyLmK/logo-seience.png",Science
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://45.144.165.187:8080/playidtv1/12345/84
-#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-id="" tvg-logo="https://i.ibb.co/ZfTTHnv/Background-Eraser-20250113-055833796.jpg", PlayID Movie
+
+
+
+
+
+#EXTINF:-1 Premium Channels(ถ่ายทอดสด) tvg-id="" tvg-logo="https://i.ibb.co/nMygLJzn/Playidmov1.png",PlayID Movie
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://45.144.165.187:8080/playidtv1/12345/17788
-#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-id="" tvg-logo="https://i.ibb.co/zhx7GzP0/playidmov2.png", PlayID Movie 2
+#EXTINF:-1 Premium Channels(ถ่ายทอดสด) tvg-id="" tvg-logo="https://i.ibb.co/GvmwFpv/movth.png", PlayID หนังไทย
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://45.144.165.187:8080/playidtv1/12345/18833
-#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-id="" tvg-logo="https://i.ibb.co/rwBz8xN/hrr.png", PlayID สยองขวัญ
+http://45.144.165.187:8080/live/playidtv1/12345/9198.m3u8
+#EXTINF:-1 Premium Channels(ถ่ายทอดสด) tvg-id="" tvg-logo="https://i.ibb.co/7QsVKxw/playidxtream.png",สารคดี
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://45.144.165.187:8080/playidtv1/12345/84
+#EXTINF:-1 Premium Channels(ถ่ายทอดสด) tvg-id="" tvg-logo="https://i.ibb.co/mF4tsWgz/hrt.jpg", PlayID สยองขวัญ
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://45.144.165.187:8080/playidtv1/12345/15672
-#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-id="" tvg-logo="https://i.ibb.co/4WsV4QB/playidmov.png",ซีรี่ย์เกาหลี ชาแนล
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://45.144.165.187:8080/playidtv1/12345/17239
-#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-id="" tvg-logo="https://i.ibb.co/x5LCMKZ/20250108-170408.png", PLAYIDTV เป็นต่อ
+#EXTINF:-1 Premium Channels(ถ่ายทอดสด) tvg-id="" tvg-logo="https://i.ibb.co/x5LCMKZ/20250108-170408.png", PLAYIDTV เป็นต่อ
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://45.144.165.187:8080/playidtv1/12345/17715
+#EXTINF:-1 Premium Channels(ถ่ายทอดสด) tvg-id="" tvg-logo="https://i.ibb.co/4WsV4QB/playidmov.png",ซีรี่ย์เกาหลี ชาแนล
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://45.144.165.187:8080/playidtv1/12345/17239
+#EXTINF:-1 Premium Channels(ถ่ายทอดสด) tvg-id="" tvg-logo="https://i.ibb.co/t3xtr8Q/20241120-191736.png",PlayID การ์ตูน ชาแนล
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://45.144.165.187:8080/playidtv1/12345/11041
+#EXTINF:-1 Premium Channels(ถ่ายทอดสด) tvg-id="" tvg-logo="https://uppic.cloud/ib/36G21fJFys3RZzo_1738572890.png",PLAYID Universal 
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://45.144.165.187:8080/playidtv1/12345/17237
+
+
 
 
 
