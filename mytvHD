@@ -9,49 +9,48 @@ PREMIUM PLAY TV (9/02/68)
 #############################################
 
 
-#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png",IZAAMOVIE
+#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-id="FuckIDIZAAMOVIE" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png",IZAAMOVIE
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://203.154.243.89:11001/izaa?m3u8
-#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/qYGcDkdc/logo-fuck-toon.png",FuckIDTOON
+#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-id="FuckIDTOON" tvg-logo="https://i.ibb.co/qYGcDkdc/logo-fuck-toon.png",FuckIDTOON
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/Cartoonumi
-#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/MxZHkhvV/logo-universal.png",Universal
+#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-id="FuckIDUniversal" tvg-logo="https://i.ibb.co/MxZHkhvV/logo-universal.png",Universal
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://45.144.165.187:8080/playidtv1/12345/17237
-#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png",FuckIDMovie
+#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-id="FuckIDMovie" tvg-logo="https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png",FuckIDMovie
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/PING
-#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png",AMAZING
+#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-id="FuckIDamazing" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png",AMAZING
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/AMAZING
-#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png",Animal
+#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-id="FuckIDanimal" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png",Animal
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/Animal
 
 
-
-#EXTINF:-1 Premium Channels(ถ่ายทอดสด) tvg-id="" tvg-logo="https://i.ibb.co/nMygLJzn/Playidmov1.png",PlayID Movie
+#EXTINF:-1 Premium Channels(ถ่ายทอดสด) tvg-id="playidMovie" tvg-logo="https://i.ibb.co/nMygLJzn/Playidmov1.png",PlayID Movie
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://45.144.165.187:8080/playidtv1/12345/17788
-#EXTINF:-1 Premium Channels(ถ่ายทอดสด) tvg-id="" tvg-logo="https://i.ibb.co/GvmwFpv/movth.png", PlayID หนังไทย
+#EXTINF:-1 Premium Channels(ถ่ายทอดสด) tvg-id="playidCinema" tvg-logo="https://i.ibb.co/GvmwFpv/movth.png", PlayID หนังไทย
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://45.144.165.187:8080/live/playidtv1/12345/9198.m3u8
-#EXTINF:-1 Premium Channels(ถ่ายทอดสด) tvg-id="" tvg-logo="https://i.ibb.co/7QsVKxw/playidxtream.png",สารคดี
+#EXTINF:-1 Premium Channels(ถ่ายทอดสด) tvg-id="playidDoc" tvg-logo="https://i.ibb.co/7QsVKxw/playidxtream.png",สารคดี
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://45.144.165.187:8080/playidtv1/12345/84
-#EXTINF:-1 Premium Channels(ถ่ายทอดสด) tvg-id="" tvg-logo="https://i.ibb.co/mF4tsWgz/hrt.jpg", PlayID สยองขวัญ
+#EXTINF:-1 Premium Channels(ถ่ายทอดสด) tvg-id="playidHorror" tvg-logo="https://i.ibb.co/mF4tsWgz/hrt.jpg", PlayID สยองขวัญ
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://45.144.165.187:8080/playidtv1/12345/15672
-#EXTINF:-1 Premium Channels(ถ่ายทอดสด) tvg-id="" tvg-logo="https://i.ibb.co/x5LCMKZ/20250108-170408.png", PLAYIDTV เป็นต่อ
+#EXTINF:-1 Premium Channels(ถ่ายทอดสด) tvg-id="playidPentor" tvg-logo="https://i.ibb.co/x5LCMKZ/20250108-170408.png", PLAYIDTV เป็นต่อ
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://45.144.165.187:8080/playidtv1/12345/17715
-#EXTINF:-1 Premium Channels(ถ่ายทอดสด) tvg-id="" tvg-logo="https://i.ibb.co/4WsV4QB/playidmov.png",ซีรี่ย์เกาหลี ชาแนล
+#EXTINF:-1 Premium Channels(ถ่ายทอดสด) tvg-id="playidKorea" tvg-logo="https://i.ibb.co/4WsV4QB/playidmov.png",ซีรี่ย์เกาหลี ชาแนล
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://45.144.165.187:8080/playidtv1/12345/17239
-#EXTINF:-1 Premium Channels(ถ่ายทอดสด) tvg-id="" tvg-logo="https://i.ibb.co/t3xtr8Q/20241120-191736.png",PlayID การ์ตูน ชาแนล
+#EXTINF:-1 Premium Channels(ถ่ายทอดสด) tvg-id="playidCartoon" tvg-logo="https://i.ibb.co/t3xtr8Q/20241120-191736.png",PlayID การ์ตูน ชาแนล
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://45.144.165.187:8080/playidtv1/12345/11041
-#EXTINF:-1 Premium Channels(ถ่ายทอดสด) tvg-id="" tvg-logo="https://uppic.cloud/ib/36G21fJFys3RZzo_1738572890.png",PLAYID Universal 
+#EXTINF:-1 Premium Channels(ถ่ายทอดสด) tvg-id="playidUniversal" tvg-logo="https://uppic.cloud/ib/36G21fJFys3RZzo_1738572890.png",PLAYID Universal 
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://45.144.165.187:8080/playidtv1/12345/17237
 
