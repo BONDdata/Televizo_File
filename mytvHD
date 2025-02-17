@@ -1,7 +1,13 @@
+
+
 #############################################
 **** ของฟรีจากในเน็ตทั้งนั้น เอาไว้ดูแก้เหงาส่วนตัว ***
 ขอบคุณทุกท่านครับ 
 #############################################
+
+
+
+
 
 #EXTM3U url-tvg="https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml,http://poid0020.trueddns.com:54337/guide.xml,https://iptv36.vercel.app/epg.xml,https://epg.pw/xmltv/epg_TH.xml, https://www.bevy.be/bevyfiles/thailandpremium.xml,https://xmltv.tvkaista.net/guides/tv.trueid.net.xml" refresh="3600" 
 
@@ -9,56 +15,59 @@
 
 
 #############################################
-PREMIUM PLAY TV (9/02/68)
+PREMIUM PLAY TV (17/02/68)
 
 #############################################
 
 
-#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png",IZAAMOVIE
+#EXTINF:-1 group-title="Premium CH(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png",IZAAMOVIE
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://203.154.243.89:11001/izaa?m3u8
-#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/qYGcDkdc/logo-fuck-toon.png",FuckIDTOON
+#EXTINF:-1 group-title="Premium CH(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/wFSYqgpG/logo-fuckseries.png",FuckIDSeries
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/SERIES
+#EXTINF:-1 group-title="Premium CH(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/qYGcDkdc/logo-fuck-toon.png",FuckIDTOON
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/Cartoonumi
-#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/MxZHkhvV/logo-universal.png",Universal
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#EXTINF:-1 group-title="Premium CH(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/MxZHkhvV/logo-universal.png",Universal
+#EXTVLCOPT:http-user-agent=playidtv
 http://45.144.165.187:8080/playidtv1/12345/17237
-#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png",FuckIDMovie
+#EXTINF:-1 group-title="Premium CH(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png",FuckIDMovie
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/PING
-#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png",AMAZING
+#EXTINF:-1 group-title="Premium CH(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png",AMAZING
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/AMAZING
-#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png",Animal
+#EXTINF:-1 group-title="Premium CH(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png",Animal
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/Animal
-#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/gQLyLmK/logo-seience.png",Science
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#EXTINF:-1 group-title="Premium CH(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/gQLyLmK/logo-seience.png",Science
+#EXTVLCOPT:http-user-agent=playidtv
 http://45.144.165.187:8080/playidtv1/12345/84
-
-
-
-#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/ZfTTHnv/Background-Eraser-20250113-055833796.jpg", PlayID Movie
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#EXTINF:-1 group-title="Premium CH(ถ่ายทอดสด)" tvg-id="" tvg-logo="https://i.ibb.co/Q7vHFFZx/logo-iplay.png",IPLAY Media
+#EXTVLCOPT:http-user-agent=playidtv
+http://45.144.165.187:8080/playidtv1/12345/37
+#EXTINF:-1 group-title="Premium CH(ถ่ายทอดสด)" tvg-id="" tvg-logo="https://i.ibb.co/ZfTTHnv/Background-Eraser-20250113-055833796.jpg", PlayID Movie
+#EXTVLCOPT:http-user-agent=playidtv
 http://45.144.165.187:8080/playidtv1/12345/17788
-#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/zhx7GzP0/playidmov2.png", PlayID Movie 2
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#EXTINF:-1 group-title="Premium CH(ถ่ายทอดสด)" tvg-id="" tvg-logo="https://i.ibb.co/zhx7GzP0/playidmov2.png", PlayID Movie 2
+#EXTVLCOPT:http-user-agent=playidtv
 http://45.144.165.187:8080/playidtv1/12345/18833
-#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/rwBz8xN/hrr.png", PlayID สยองขวัญ
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#EXTINF:-1 group-title="Premium CH(ถ่ายทอดสด)" tvg-id="" tvg-logo="https://i.ibb.co/rwBz8xN/hrr.png", PlayID สยองขวัญ
+#EXTVLCOPT:http-user-agent=playidtv
 http://45.144.165.187:8080/playidtv1/12345/15672
-#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/4WsV4QB/playidmov.png",ซีรี่ย์เกาหลี ชาแนล
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://45.144.165.187:8080/playidtv1/12345/17239
+#EXTINF:-1 group-title="Premium CH(ถ่ายทอดสด)"tvg-id="" tvg-logo="https://i.ibb.co/nMygLJzn/Playidmov1.png",PlayID HITS2K
+#EXTVLCOPT:http-user-agent=playidtv
+http://45.144.165.187:8080/playidtv1/12345/15675
+#EXTINF:-1 group-title="Premium CH(ถ่ายทอดสด)" tvg-id="" tvg-logo="https://i.ibb.co/4f3nLNP/playtvthai.png",PLAYTV MOVIE
+#EXTVLCOPT:http-user-agent=playidtv
+http://45.144.165.187:8080/playidtv1/12345/11052
+#EXTINF:-1 group-title="Premium CH(ถ่ายทอดสด)" tvg-id="" tvg-logo="https://i.ibb.co/GvmwFpv/movth.png", PlayID หนังไทย
+#EXTVLCOPT:http-user-agent=playidtv
+http://45.144.165.187:8080/live/playidtv1/12345/9198.m3u8
 
 
-
-
-#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-id="PlayID_Pentor" tvg-logo="https://i.ibb.co/x5LCMKZ/20250108-170408.png", PLAYIDTV เป็นต่อ
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://45.144.165.187:8080/playidtv1/12345/17715
-
-#EXTINF:-1 group-title="Premium Channels(ถ่ายทอดสด)" tvg-id="ThanksPlayidtvFuckID" tvg-logo="https://i.ibb.co/JwQQMgJW/playidmov2.png",เครดิตPlayidtv/FuckID
+#EXTINF:-1 group-title="Premium CH(ถ่ายทอดสด)" tvg-id="ThanksPlayidtvFuckID" tvg-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png",ขอขอบคุณ|FUCKID
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://45.144.165.187:8080/playidtv1/12345/17789
 
@@ -5120,8 +5129,6 @@ https://main.24playerhd.com/newplaylist/f1606a0d24c1006b1565cc34/f1606a0d24c1006
 
 #EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/3015/20220712160429l7Kz.jpg" group-title="หนังการ์ตูน" ,Ratatouille - ระ-ทะ-ทู-อี่ พ่อครัวตัวจี๊ด หัวใจคับโลก (2007) [HD]
 https://movie.server-cdn-streaming.com/api/uploads/movie/3015/video/6741/hls/movie.m3u8
-
-
 
 
 
