@@ -36,6 +36,8 @@ https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/playlist
 #EXTINF:1 tvg-logo="https://www.fileinw.com/postor/20240429213640FWsport.jpg" group-title="Premium CH(ถ่ายทอดสด)", FWSPORT
 https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI1IDI6NDM6MDEgUE0maGFzaF92YWx1ZT1JMmY0NlhzY1FpT05sUnRFODYwdUpnPT0mdmFsaWRtaW51dGVzPTI=
 
+#EXTINF:1 tvg-logo="https://www.fileinw.com/postor/20240429213343just_for_laughs_gags.jpg" group-title="Premium CH(ถ่ายทอดสด)", GAGS
+https://freelive2.inwstream.com:1936/freelive-edge/gags_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI1IDI6NDM6MDEgUE0maGFzaF92YWx1ZT1JMmY0NlhzY1FpT05sUnRFODYwdUpnPT0mdmFsaWRtaW51dGVzPTI=
 
 
 #EXTINF:-1 group-title="Premium CH(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png",IZAAMOVIE
