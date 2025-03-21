@@ -20,6 +20,24 @@ PREMIUM PLAY TV (17/02/68)
 #############################################
 
 
+
+#EXTINF:1 tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg" group-title="Premium CH(ถ่ายทอดสด)", FWMOV
+https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI1IDI6NDM6MDEgUE0maGFzaF92YWx1ZT1JMmY0NlhzY1FpT05sUnRFODYwdUpnPT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:1 tvg-logo="https://www.fileinw.com/postor/20240429213326FWSOV.jpg" group-title="Premium CH(ถ่ายทอดสด)", FWSOV
+https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI1IDI6NDM6MDEgUE0maGFzaF92YWx1ZT1JMmY0NlhzY1FpT05sUnRFODYwdUpnPT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:1 tvg-logo="https://www.fileinw.com/postor/20240429213651FWTOON.jpg" group-title="Premium CH(ถ่ายทอดสด)", FWTOON
+https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI1IDI6NDM6MDEgUE0maGFzaF92YWx1ZT1JMmY0NlhzY1FpT05sUnRFODYwdUpnPT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:1 tvg-logo="https://www.fileinw.com/postor/20240617204638FWDoc.jpg" group-title="Premium CH(ถ่ายทอดสด)", FWDOC
+https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI1IDI6NDM6MDEgUE0maGFzaF92YWx1ZT1JMmY0NlhzY1FpT05sUnRFODYwdUpnPT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:1 tvg-logo="https://www.fileinw.com/postor/20240429213640FWsport.jpg" group-title="Premium CH(ถ่ายทอดสด)", FWSPORT
+https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI1IDI6NDM6MDEgUE0maGFzaF92YWx1ZT1JMmY0NlhzY1FpT05sUnRFODYwdUpnPT0mdmFsaWRtaW51dGVzPTI=
+
+
+
 #EXTINF:-1 group-title="Premium CH(ถ่ายทอดสด)" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png",IZAAMOVIE
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://203.154.243.89:11001/izaa?m3u8
@@ -59,11 +77,14 @@ http://45.144.165.187:8080/playidtv/1234/15675
 http://45.144.165.187:8080/playidtv/1234/17238
 
 #EXTINF:-1 group-title="Premium CH(ถ่ายทอดสด)" tvg-id="" tvg-logo="https://i.ibb.co/94GH5SK/mass.png",PlayID ซีรีย์มาราธอน
+
 #EXTVLCOPT:http-user-agent=playidtv24
 http://45.144.165.187:8080/playidtv/1234/18833
 #EXTINF:-1 group-title="Premium CH(ถ่ายทอดสด)" tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg",FWMOVIE
 #EXTVLCOPT:http-user-agent=playidtv24
 http://45.144.165.187:8080/playidtv/1234/11051
+
+
 #EXTINF:-1 group-title="Premium CH(ถ่ายทอดสด)" tvg-id="" tvg-logo="https://i.ibb.co/GvmwFpv/movth.png", PLAYID หนังไทย
 #EXTVLCOPT:http-user-agent=playidtv24
 http://45.144.165.187:8080/playidtv/1234/9198
