@@ -77,12 +77,9 @@ http://45.144.165.187:8080/playidtv/1234/15675
 http://45.144.165.187:8080/playidtv/1234/17238
 
 #EXTINF:-1 group-title="Premium CH(ถ่ายทอดสด)" tvg-id="" tvg-logo="https://i.ibb.co/94GH5SK/mass.png",PlayID ซีรีย์มาราธอน
-
 #EXTVLCOPT:http-user-agent=playidtv24
 http://45.144.165.187:8080/playidtv/1234/18833
-#EXTINF:-1 group-title="Premium CH(ถ่ายทอดสด)" tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg",FWMOVIE
-#EXTVLCOPT:http-user-agent=playidtv24
-http://45.144.165.187:8080/playidtv/1234/11051
+
 
 
 #EXTINF:-1 group-title="Premium CH(ถ่ายทอดสด)" tvg-id="" tvg-logo="https://i.ibb.co/GvmwFpv/movth.png", PLAYID หนังไทย
